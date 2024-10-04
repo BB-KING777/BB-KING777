@@ -5,3 +5,6 @@ Most of readme is written by Japanese so if you need help, teach me and say some
 I don't like coding so most of code is assist from ChatGPT. Of couse I wirte code. I use AI to recoding it.
 
 Have a nice day.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-KING777)](https://github.com/anuraghazra/github-readme-stats)
+
