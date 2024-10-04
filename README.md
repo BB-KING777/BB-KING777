@@ -10,5 +10,5 @@ Have a nice day.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-KING777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-KING777&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
